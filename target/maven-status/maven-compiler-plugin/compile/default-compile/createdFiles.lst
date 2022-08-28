@@ -1,0 +1,6 @@
+com/wind/service/serviceImpl/CategoriesServiceImpl.class
+com/wind/entity/Categories.class
+com/wind/repository/CategoriesRepository.class
+com/wind/WindApplication.class
+com/wind/service/CategoriesService.class
+com/wind/controller/CategoriesController.class
